@@ -1,4 +1,4 @@
 *.xml
 *.png
 .luarc.json
-.vscode/
+/.vscode/
