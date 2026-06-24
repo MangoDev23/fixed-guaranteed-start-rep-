@@ -5,7 +5,7 @@ FGS.config = {
     ["NormalTreasureRoom"] = true,
     ["GreedTreasureRoom"] = true,
     ["GreedBossRoom"] = true,
-    ["MinimumQuality"] = true, -- false = 3, true = 4
+    ["MinimumQuality"] = false, -- false = 3, true = 4
     ["IncludeActiveItems"] = true,
     ["IncludeFamiliars"] = true,
     ["OnlyOffensive"] = false,
